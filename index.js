@@ -2,7 +2,7 @@
  * @Author: Soporior
  * @Date: 2021-12-07 14:09:27
  * @LastEditors: Soporior
- * @LastEditTime: 2023-01-16 09:55:55
+ * @LastEditTime: 2023-01-16 13:38:11
  * @FilePath: \ts\index.ts
  */
 // interface testinterface{
